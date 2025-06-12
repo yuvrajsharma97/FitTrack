@@ -21,7 +21,8 @@ export default function Home() {
             <span className="text-violet-500 block">Fitness Journey</span>
           </h1>
           <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
-            "The groundwork for all happiness is good health." - Leigh Hunt
+            &quot;The groundwork for all happiness is good health.&quot; - Leigh
+            Hunt
           </p>
           <p className="text-lg text-muted-foreground mb-10 max-w-3xl mx-auto">
             Track your workouts, visualize your progress, and achieve your
@@ -92,7 +93,7 @@ export default function Home() {
               </h3>
               <p className="text-muted-foreground">
                 Get customized workout plans tailored to your goals. From
-                beginner to advanced, we've got you covered.
+                beginner to advanced, we&apos;ve got you covered.
               </p>
             </div>
           </div>
